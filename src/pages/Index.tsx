@@ -26,10 +26,10 @@ const Index = () => {
             🎯 AVIAMASTERS
           </h1>
           <p className="text-xl md:text-3xl text-yellow-300 font-semibold mb-2">
-            Легендарная игра казино
+            Game kasino legendaris
           </p>
           <p className="text-lg md:text-xl text-gray-300">
-            Взлетай к победам! ✈️
+            Terbang menuju kemenangan! ✈️
           </p>
         </div>
 
@@ -38,23 +38,23 @@ const Index = () => {
           <div className="bg-gradient-to-br from-yellow-600/20 to-red-600/20 backdrop-blur-sm border border-yellow-500/30 rounded-xl p-6 transform hover:scale-105 transition-all duration-300">
             <div className="text-3xl mb-2">💰</div>
             <h3 className="text-yellow-400 font-bold text-lg mb-2">
-              БОНУС +100%
+              BONUS +100%
             </h3>
-            <p className="text-gray-300 text-sm">При первом депозите</p>
+            <p className="text-gray-300 text-sm">Pada deposit pertama</p>
           </div>
 
           <div className="bg-gradient-to-br from-red-600/20 to-yellow-600/20 backdrop-blur-sm border border-red-500/30 rounded-xl p-6 transform hover:scale-105 transition-all duration-300">
             <div className="text-3xl mb-2">🎰</div>
             <h3 className="text-red-400 font-bold text-lg mb-2">
-              50 ФРИСПИНОВ
+              50 PUTARAN GRATIS
             </h3>
-            <p className="text-gray-300 text-sm">Бесплатные вращения</p>
+            <p className="text-gray-300 text-sm">Putaran gratis</p>
           </div>
 
           <div className="bg-gradient-to-br from-yellow-600/20 to-orange-600/20 backdrop-blur-sm border border-yellow-500/30 rounded-xl p-6 transform hover:scale-105 transition-all duration-300">
             <div className="text-3xl mb-2">🏆</div>
-            <h3 className="text-yellow-400 font-bold text-lg mb-2">ДЖЕКПОТ</h3>
-            <p className="text-gray-300 text-sm">До 1,000,000₽</p>
+            <h3 className="text-yellow-400 font-bold text-lg mb-2">JACKPOT</h3>
+            <p className="text-gray-300 text-sm">Hingga 1.000.000₽</p>
           </div>
         </div>
 
@@ -67,7 +67,7 @@ const Index = () => {
             className="group relative inline-flex items-center justify-center px-12 py-4 text-xl font-bold text-black bg-gradient-to-r from-yellow-400 via-yellow-500 to-yellow-600 rounded-full shadow-2xl transform hover:scale-110 transition-all duration-300 hover:shadow-yellow-500/50"
           >
             <span className="relative z-10 flex items-center gap-3">
-              🚀 ИГРАТЬ СЕЙЧАС
+              🚀 MAIN SEKARANG
             </span>
             <div className="absolute inset-0 bg-gradient-to-r from-yellow-300 to-red-400 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300 animate-pulse"></div>
           </a>
@@ -77,15 +77,15 @@ const Index = () => {
         <div className="flex flex-wrap justify-center gap-8 text-sm md:text-base text-gray-300 max-w-2xl">
           <div className="flex items-center gap-2">
             <span className="text-green-400">✅</span>
-            <span>Мгновенные выплаты</span>
+            <span>Pembayaran instan</span>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-green-400">✅</span>
-            <span>24/7 поддержка</span>
+            <span>Dukungan 24/7</span>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-green-400">✅</span>
-            <span>Лицензированное казино</span>
+            <span>Kasino berlisensi</span>
           </div>
         </div>
 
